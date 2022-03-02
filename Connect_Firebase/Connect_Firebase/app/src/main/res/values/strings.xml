@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Connect_Firebase</string>
+    <string name="emp_no">emp_no</string>
+    <string name="emp_name">emp_name</string>
+    <string name="emp_sal">emp_sal</string>
+    <string name="insert">insert</string>
+    <string name="update_data">UPDATE DATA</string>
+
+</resources>
